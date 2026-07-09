@@ -8,8 +8,6 @@ Jogo de adivinhação no navegador: o jogador tenta descobrir o número secreto 
 
 [![Demonstração online](https://img.shields.io/badge/demonstra%C3%A7%C3%A3o-online-2EA44F?style=for-the-badge)](https://otavio-2507.github.io/Numero-Secreto/)
 
-[![Prévia do jogo](docs/preview.webp)](https://otavio-2507.github.io/Numero-Secreto/)
-
 ## Visão geral
 
 Projeto de lógica de programação com JavaScript: a cada rodada um número aleatório é sorteado e o jogador recebe, além do texto na tela, mensagens faladas (via ResponsiveVoice) indicando se o palpite está acima ou abaixo do número secreto. Ao acertar, o jogo informa o total de tentativas e permite iniciar uma nova partida, sem repetir números já sorteados até esgotar a lista.
@@ -49,9 +47,7 @@ Numero-Secreto/
 ├── index.html          Interface do jogo
 ├── app.js              Lógica do sorteio e das tentativas
 ├── style.css           Estilos da página
-├── img/                Imagens de fundo e ilustração
-└── docs/
-    └── preview.webp    Imagem de prévia do README
+└── img/                Imagens de fundo e ilustração
 ```
 
 ## Autor

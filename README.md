@@ -4,9 +4,11 @@
 
 Jogo de adivinhação no navegador: o jogador tenta descobrir o número secreto entre 1 e 10 recebendo dicas a cada palpite, com feedback por voz sintetizada e contagem de tentativas.
 
-![Tecnologias utilizadas](https://skillicons.dev/icons?i=html,css,js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![Ver demonstração](https://img.shields.io/badge/Ver_demonstra%C3%A7%C3%A3o-2EA44F?style=for-the-badge)](https://otavio-2507.github.io/Numero-Secreto/)
+[![Demonstração online](https://img.shields.io/badge/demonstra%C3%A7%C3%A3o-online-2EA44F?style=flat-square)](https://otavio-2507.github.io/Numero-Secreto/)
 
 </div>
 

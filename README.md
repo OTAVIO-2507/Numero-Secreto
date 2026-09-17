@@ -8,10 +8,12 @@ Jogo de adivinhação no navegador: o jogador tenta descobrir o número secreto 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Prévia do projeto](img/preview.jpg)
-
 [![Ver projeto](https://img.shields.io/badge/Ver_projeto-3642B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://otavio-2507.github.io/Numero-Secreto/)
 [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTAVIO-2507/Numero-Secreto)
+
+<br>
+
+[![Prévia do projeto](img/preview.jpg)](https://otavio-2507.github.io/Numero-Secreto/)
 
 </div>
 
